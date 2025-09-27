@@ -2,9 +2,11 @@ ________________________________________________________________________________
 🛒 Retail Sales Data Analysis
 
 📌 Project Overview
+
 This project analyzes a retail sales dataset to uncover key business insights such as sales trends, top-performing products, regional performance, and discount impact on profitability. The goal is to demonstrate data cleaning, exploratory data analysis (EDA), visualization, and storytelling using Python.
 ______________________________________________________________________________________________
 📝 Problem Statement
+
 A retail company wants to understand:
 •	How do sales and profit change over time?
 •	Which categories, products, and regions are most profitable?

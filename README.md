@@ -14,15 +14,18 @@ A retail company wants to understand:
 •	What business recommendations can be made based on the data?
 _____________________________________________________________________________________________
 🛠️ Tools & Libraries Used
+
 •	Python (pandas, NumPy) – Data cleaning & manipulation
 •	Matplotlib, Seaborn – Data visualization
 •	Jupyter Notebook – Analysis & reporting
 _____________________________________________________________________________________________
 📂 Dataset
+
 •	Dataset Source: Kaggle Superstore Dataset 
 •	Key Columns: Order Date, Ship Date, Category, Sub-Category, Sales, Profit, Quantity, Discount, Region
 ____________________________________________________________________________________________
 🔎 Analysis & Insights
+
 1. Sales Trend Over Time
 •	Monthly sales showed a steady growth with peaks in November–December (holiday season).
 2. Category & Product Performance
@@ -36,6 +39,7 @@ ________________________________________________________________________________
 •	Recommendation: optimize discount strategy to balance sales & profit.
 _________________________________________________________________________________________________
 📊 Visualizations
+
 •	Line chart → Monthly sales trend
 <img width="1382" height="725" alt="image" src="https://github.com/user-attachments/assets/47d98ade-6a96-49a9-9733-e27de3268a57" />
 
@@ -50,16 +54,19 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 🚀 Key Learnings
+
 •	How to clean and preprocess real-world sales data.
 •	Performing exploratory data analysis (EDA) with pandas.
 •	Visualizing insights effectively using matplotlib and seaborn.
 •	Extracting business-oriented insights from raw data.
 _________________________________________________________________________________________________
 📌 Next Steps
+
 •	Apply forecasting models to predict future sales.
 •	Build a dashboard using Power BI or Tableau for real-time insights.
 •	Explore customer segmentation for targeted marketing.
 ________________________________________
 👩‍💻 Author
+
 Dilna P S
 
